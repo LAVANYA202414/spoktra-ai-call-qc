@@ -1,0 +1,7 @@
+MODEL_NAME: distilbert-base-uncased
+MAX_LEN: 128
+BATCH_SIZE: 8
+EPOCHS: 3
+LR: 2e-5
+THRESHOLD: 0.5
+best_threshold: 0.5
